@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+env/
+inspection_log.xlsx
+qr_codes/
+*.pdf
+*.png
+temp_uploaded_label.png
+.DS_Store
