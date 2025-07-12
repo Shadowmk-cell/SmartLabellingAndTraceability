@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 **Run the application**
-streamlit run app.py
+streamlit run apps.py
 
 **Admin Credentials**
 Some features require admin access:
