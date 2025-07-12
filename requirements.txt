@@ -1,0 +1,9 @@
+streamlit
+qrcode[pil]
+openpyxl
+easyocr
+opencv-python-headless
+pandas
+fpdf
+pillow
+plotly
